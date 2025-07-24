@@ -5,7 +5,7 @@ The aim of this project is to build a dynamic 3-statement financial model for Ta
 
 🛠 Tool
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/db343fa2-b07a-420d-a92e-8b7e780e0091" />
+<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/db343fa2-b07a-420d-a92e-8b7e780e0091" />
 
 🧩 Steps
 ⚫ Defined assumptions and financial drivers
