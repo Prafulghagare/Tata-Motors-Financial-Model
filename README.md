@@ -13,7 +13,6 @@ The aim of this project is to build a dynamic 3-statement financial model for Ta
 ⚫ Integrated formulas for automated projections
 ⚫ Conducted scenario and sensitivity analysis
 ⚫ Calculated valuation metrics: NPV, IRR, Payback Period
-⚫ Designed financial dashboards and visualizations
 
 📈 Insights
 📍 Tata Motors’ financial performance is highly sensitive to operating margin and sales growth assumptions.
