@@ -1,4 +1,4 @@
-Tata Motors Financial Model
+                                                                              Tata Motors Financial Model
 
 🎯 Objective
 The aim of this project is to build a dynamic 3-statement financial model for Tata Motors to project its future financial performance and support strategic business decisions through valuation and scenario analysis.
