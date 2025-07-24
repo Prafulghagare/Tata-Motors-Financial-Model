@@ -1,9 +1,9 @@
-<img width="200" height="2000" alt="image" src="https://github.com/user-attachments/assets/db343fa2-b07a-420d-a92e-8b7e780e0091" />Tata Motors Financial Model
+Tata Motors Financial Model
 🎯 Objective
 The aim of this project is to build a dynamic 3-statement financial model for Tata Motors to project its future financial performance and support strategic business decisions through valuation and scenario analysis.
 
 🛠 Tool
- Excel
+<img width="200" height="2000" alt="image" src="https://github.com/user-attachments/assets/db343fa2-b07a-420d-a92e-8b7e780e0091" />
 
 🧩 Steps
 ⚫ Defined assumptions and financial drivers
