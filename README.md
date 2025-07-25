@@ -5,7 +5,8 @@ The aim of this project is to build a dynamic 3-statement financial model for Ta
 
 🛠 Tool
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/db343fa2-b07a-420d-a92e-8b7e780e0091" />
+<p align="left"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/></a></p>
+
 
 🧩 Steps
 ⚫ Defined assumptions and financial drivers
