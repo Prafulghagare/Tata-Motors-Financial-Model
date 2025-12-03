@@ -21,3 +21,13 @@ The aim of this project is to build a dynamic 3-statement financial model for Ta
 📍 The IRR and NPV calculations provided a clear view of long-term investment value.
 📍 Financial ratios indicated improvement in liquidity and efficiency under optimized cost scenarios.
 📍 The model provides a robust foundation for investor analysis, strategic planning, and performance forecasting.
+
+Built a comprehensive financial model for Tata Motors (FY21–FY25 actuals + FY26–FY30 forecasts) covering:
+
+Full 3-statement model (Income Statement, Balance Sheet, Cash Flow Statement)
+Historical CAGR calculation (~15.3% revenue growth) and forward projections up to ₹899,000 Cr revenue by FY30
+Key insights:
+→ Dramatic turnaround from ₹13,451 Cr net loss (FY21) to ₹31,399 Cr profit (FY24)
+→ Net debt/equity improved from 2.08x to 0.54x
+→ Operating margins expanded from negative to ~14–15%
+→ Strong operating cash flow (₹63,000+ Cr in FY25) supporting capex and deleveraging
